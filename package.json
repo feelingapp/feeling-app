@@ -36,7 +36,7 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-virtualized-auto-sizer": "1.0.2",
-    "react-window": "1.8.5",
+    "react-window": "1.8.6",
     "svg-sprite-loader": "5.0.0",
     "swr": "0.3.7"
   },
